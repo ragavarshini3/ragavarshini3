@@ -226,17 +226,6 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragavarshini3&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
 </div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ragavarshini3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ragavarshini3)
-
-</div>
-
 ---
 
 ## 🎓 Education
