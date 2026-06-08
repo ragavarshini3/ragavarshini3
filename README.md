@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ragavarshini%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Python%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ragavarshini+A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI+%26+Python+Developer+%7C+Building+Intelligent+Systems&descAlignY=62&descSize=16)
 
 <div align="center">
 
