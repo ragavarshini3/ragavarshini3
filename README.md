@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/space.gif" width="100%" height="180" style="object-fit: cover; border-radius: 12px;" />
 
 <br/>
-
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=Ragavarshini+Alagarsamy;%E2%9A%A1+AI+%26+Python+Developer+%E2%9A%A1;%F0%9F%A4%96+ROS2+%2B+Autonomous+Tech+%F0%9F%A4%96;Ragavarshini+Alagarsamy" />
 
 </div>
