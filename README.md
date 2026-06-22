@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=Ragavarshini+Alagarsamy&fontSize=45&fontColor=#FF0000&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=Ragavarshini+Alagarsamy&fontSize=45&fontColor=#FF1100&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <div align="center">
 
