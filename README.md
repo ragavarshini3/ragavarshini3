@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/space.gif" width="100%" height="180" style="object-fit: cover; border-radius: 12px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header" width="100%" />
 
-<br/>
- 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=Ragavarshini+Alagarsamy;%E2%9A%A1+AI+%26+Python+Developer+%E2%9A%A1;%F0%9F%A4%96+ROS2+%2B+Autonomous+Tech+%F0%9F%A4%96;Ragavarshini+Alagarsamy" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=Ragavarshini+Alagarsamy" />
 
 </div>
 
@@ -275,7 +273,7 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 <a href="https://github.com/ragavarshini3">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/varshini_03._?utm_source=qr&igsh=MWZlaW93empnczBiZw%3D%3D">
+<a href="https://www.instagram.com/varshini_03._?utm_source=qr&igsh=MWZlaW93empnczBiZw==">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://www.hackerrank.com/profile/ragavarshini_30">
