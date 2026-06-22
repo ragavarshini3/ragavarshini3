@@ -1,6 +1,10 @@
-<div align="center">
+<div align="center" style="position: relative;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ragavarshini+Alagarsamy&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header" width="100%" />
+
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 200px; display: flex; align-items: center; justify-content: center;">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=46&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Ragavarshini+Alagarsamy" />
+</div>
 
 </div>
 
