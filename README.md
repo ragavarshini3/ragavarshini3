@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=Ragavarshini+Alagarsamy" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ragavarshini+Alagarsamy&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 
 </div>
 
