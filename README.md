@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=Ragavarshini+Alagarsamy&fontSize=45&fontColor=#FF1100&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=Ragavarshini+Alagarsamy&fontSize=45&fontColor=ff0000&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <div align="center">
 
@@ -259,7 +259,7 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ragavarshini-alagarsamy-17mar2006/">
-  <img src="https://://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:alagarsamyvarshini@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
