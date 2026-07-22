@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+%40+KGISL;Python+%7C+Flask+%7C+ML+%7C+ROS2+Developer;Swarm+Intelligence+%2B+Autonomous+Driving;Building+Intelligent+Full-Stack+Apps+%F0%9F%A4%96;Open+for+Internships+%F0%9F%9A%80" />
 </p>
 
-<p>
+<p> 
   <img src="https://komarev.com/ghpvc/?username=ragavarshini3&style=flat-square&color=70a5fd&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/ragavarshini3?style=flat-square&color=bf91f3&label=Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Internships-38bdae?style=flat-square" />
