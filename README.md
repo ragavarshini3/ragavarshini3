@@ -248,7 +248,7 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 🤖 ROS2         → CARLA / Gazebo Simulation for Autonomous Vehicles
 🧠 Deep Learning → Transformer Architectures & Attention Mechanisms
 🔍 Agentic AI   → LLM Orchestration, Tool Use & Multi-Agent Workflows
-☁️  Cloud        → AWS / Azure Fundamentals & Deployment Pipelines
+☁️ Cloud        → AWS / Azure Fundamentals & Deployment Pipelines
 📦 MLOps        → Model Versioning, CI/CD for ML, Experiment Tracking
 ```
 
