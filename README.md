@@ -235,7 +235,7 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📈 Score |
 |:---|:---|:---:|:---:|
-| B.Tech — Artificial Intelligence & Data Science | KGISL Institute of Technology, Coimbatore | 2023 – Present | **CGPA: 8.37** |
+| B.Tech — Artificial Intelligence & Data Science | KGISL Institute of Technology, Coimbatore | 2023 – Present | **CGPA: 8.345** |
 | Higher Secondary — BioMaths | Ramco Vidyalaya, Virudhunagar | 2022 – 2023 | — |
 
 </div>
