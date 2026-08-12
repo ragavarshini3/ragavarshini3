@@ -46,7 +46,7 @@ class Ragavarshini:
         "🤖 ROS2  → CARLA / Gazebo Simulation",
         "🧠 Deep Learning → Transformer Architectures",
         "🔍 Agentic AI  → LLM Orchestration & Tool Use",
-        "☁️  Cloud  → AWS / Azure Deployment Pipelines",
+        "☁️ Cloud  → AWS / Azure Deployment Pipelines",
     ]
 
     def motto(self) -> str:
