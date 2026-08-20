@@ -216,26 +216,12 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app?user=ragavarshini3&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="55%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 | 🔥 Metric | 📊 Value |
 |:---:|:---:|
 | ![](https://img.shields.io/badge/Total%20Commits-326+-70a5fd?style=flat-square&logo=github&logoColor=white) | ![](https://img.shields.io/badge/Longest%20Streak-11%20Days-bf91f3?style=flat-square&logo=github&logoColor=white) |
 | ![](https://img.shields.io/badge/Top%20Language-Python%2095%25-38bdae?style=flat-square&logo=python&logoColor=white) | ![](https://img.shields.io/badge/Active%20Since-Dec%202023-f97316?style=flat-square&logo=github&logoColor=white) |
 | ![](https://img.shields.io/badge/Total%20PRs-4-70a5fd?style=flat-square&logo=github&logoColor=white) | ![](https://img.shields.io/badge/Repos%20Contributed-1+-bf91f3?style=flat-square&logo=github&logoColor=white) |
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ragavarshini3&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=4" width="95%"/>
 </div>
 
 ---
