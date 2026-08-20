@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ragavarshini%20Alagarsamy&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ragavarshini%20Alagarsamy&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
-  
+
 ### 🚀 AI & Python Developer · Data Analyst · Autonomous Tech Builder · ROS2 Enthusiast
- 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+%40+KGISL;Python+%7C+Flask+%7C+ML+%7C+ROS2+Developer;Swarm+Intelligence+%2B+Autonomous+Driving;Building+Intelligent+Full-Stack+Apps+%F0%9F%A4%96;Open+for+Internships+%F0%9F%9A%80" />
 </p>
 
-<p> 
+<p>
   <img src="https://komarev.com/ghpvc/?username=ragavarshini3&style=flat-square&color=70a5fd&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/ragavarshini3?style=flat-square&color=bf91f3&label=Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Internships-38bdae?style=flat-square" />
@@ -30,7 +30,7 @@ class Ragavarshini:
     name        = "Ragavarshini A"
     location    = "Sattur, Tamil Nadu, India 🇮🇳"
     degree      = "B.Tech AI & Data Science @ KGISL, Coimbatore"
-    cgpa        = 8.38
+    cgpa        = 8.37
     roles       = ["AI Developer", "Python Dev", "Data Analyst", "ROS2 Builder"]
     currentProject = "Swarm Intelligence Autonomous Driving (V2V/V2I)"
     open_source    = True
@@ -46,7 +46,7 @@ class Ragavarshini:
         "🤖 ROS2  → CARLA / Gazebo Simulation",
         "🧠 Deep Learning → Transformer Architectures",
         "🔍 Agentic AI  → LLM Orchestration & Tool Use",
-        "☁️ Cloud  → AWS / Azure Deployment Pipelines",
+        "☁️  Cloud  → AWS / Azure Deployment Pipelines",
     ]
 
     def motto(self) -> str:
@@ -216,7 +216,8 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ragavarshini3&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="60%"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ragavarshini3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&rank_icon=github" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragavarshini3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
 
 </div>
 
@@ -235,7 +236,7 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📈 Score |
 |:---|:---|:---:|:---:|
-| B.Tech — Artificial Intelligence & Data Science | KGISL Institute of Technology, Coimbatore | 2023 – Present | **CGPA: 8.345** |
+| B.Tech — Artificial Intelligence & Data Science | KGISL Institute of Technology, Coimbatore | 2023 – Present | **CGPA: 8.37** |
 | Higher Secondary — BioMaths | Ramco Vidyalaya, Virudhunagar | 2022 – 2023 | — |
 
 </div>
@@ -248,7 +249,7 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 🤖 ROS2         → CARLA / Gazebo Simulation for Autonomous Vehicles
 🧠 Deep Learning → Transformer Architectures & Attention Mechanisms
 🔍 Agentic AI   → LLM Orchestration, Tool Use & Multi-Agent Workflows
-☁️ Cloud        → AWS / Azure Fundamentals & Deployment Pipelines
+☁️  Cloud        → AWS / Azure Fundamentals & Deployment Pipelines
 📦 MLOps        → Model Versioning, CI/CD for ML, Experiment Tracking
 ```
 
