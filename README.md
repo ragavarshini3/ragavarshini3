@@ -216,7 +216,10 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ragavarshini3&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="60%"/>
+![Total Commits](https://img.shields.io/badge/Total%20Commits-326+-70a5fd?style=for-the-badge&logo=github&logoColor=white)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-11%20Days-bf91f3?style=for-the-badge&logo=github&logoColor=white)
+![Languages](https://img.shields.io/badge/Top%20Language-Python%2095%25-38bdae?style=for-the-badge&logo=python&logoColor=white)
+![Contributions](https://img.shields.io/badge/Since-Dec%202023-f97316?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
