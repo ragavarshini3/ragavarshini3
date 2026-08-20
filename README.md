@@ -30,7 +30,7 @@ class Ragavarshini:
     name        = "Ragavarshini A"
     location    = "Sattur, Tamil Nadu, India 🇮🇳"
     degree      = "B.Tech AI & Data Science @ KGISL, Coimbatore"
-    cgpa        = 8.37
+    cgpa        = 8.38
     roles       = ["AI Developer", "Python Dev", "Data Analyst", "ROS2 Builder"]
     currentProject = "Swarm Intelligence Autonomous Driving (V2V/V2I)"
     open_source    = True
