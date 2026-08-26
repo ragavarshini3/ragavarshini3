@@ -8,7 +8,7 @@
 
 ### 🚀 AI & Python Developer · Data Analyst · Autonomous Tech Builder · ROS2 Enthusiast
 
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+%40+KGISL;Python+%7C+Flask+%7C+ML+%7C+ROS2+Developer;Swarm+Intelligence+%2B+Autonomous+Driving;Building+Intelligent+Full-Stack+Apps+%F0%9F%A4%96;Open+for+Internships+%F0%9F%9A%80" />
 </p>
 
