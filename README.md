@@ -22,7 +22,7 @@
 </div>
 
 ---
-
+ 
 ## 🧠 Developer Blueprint
 
 ```python
