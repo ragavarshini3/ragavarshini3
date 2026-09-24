@@ -1,27 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=220&section=header&text=Ragavarshini%20Alagarsamy&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=AI%20%26%20Python%20Developer%20%7C%20ROS2%20%7C%20Data%20Analyst&descSize=16&descAlignY=62&descColor=ffaaaa" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF4444&center=true&vCenter=true&width=750&height=50&lines=AI+%26+Data+Science+Student+%40+KGISL;Python+%7C+Flask+%7C+ML+%7C+ROS2+Developer;Swarm+Intelligence+%2B+Autonomous+Driving;Building+Intelligent+Full-Stack+Apps;Open+for+Internships!" />
-
-</div>
-
-<div align="center">
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ragavarshini3&style=for-the-badge&color=cc0000&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/ragavarshini3?style=for-the-badge&color=ff4444&label=FOLLOWERS" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-8b0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍-TAMIL%20NADU%20🇮🇳-1a0000?style=for-the-badge" />
-</p>
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ragavarshini%20Alagarsamy&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" /> </div>  <div align="center"> ### 🚀 AI & Python Developer · Data Analyst · Autonomous Tech Builder · ROS2 Enthusiast <p align="center">   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+%40+KGISL;Python+%7C+Flask+%7C+ML+%7C+ROS2+Developer;Swarm+Intelligence+%2B+Autonomous+Driving;Building+Intelligent+Full-Stack+Apps+%F0%9F%A4%96;Open+for+Internships+%F0%9F%9A%80" /></p> <p>  <img src="https://komarev.com/ghpvc/?username=ragavarshini3&style=flat-square&color=70a5fd&label=Profile+Views" />  <img src="https://img.shields.io/github/followers/ragavarshini3?style=flat-square&color=bf91f3&label=Followers" />  <img src="https://img.shields.io/badge/Open%20to-Internships-38bdae?style=flat-square" />  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%20🇮🇳-70a5fd?style=flat-square" /></p> </div> ---
 
 ## 🧠 Developer Blueprint
 
