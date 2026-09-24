@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0000,50:8b0000,100:cc0000&height=220&section=header&text=Ragavarshini%20Alagarsamy&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=scaleIn&stroke=ff4444&strokeWidth=2&desc=AI%20%26%20Python%20Developer%20%7C%20ROS2%20%7C%20Data%20Analyst&descSize=16&descAlignY=62&descColor=ffaaaa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=220&section=header&text=Ragavarshini%20Alagarsamy&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=AI%20%26%20Python%20Developer%20%7C%20ROS2%20%7C%20Data%20Analyst&descSize=16&descAlignY=62&descColor=ffaaaa" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF4444&center=true&vCenter=true&multiline=false&width=750&height=50&lines=🔥+AI+%26+Data+Science+Student+%40+KGISL;⚡+Python+%7C+Flask+%7C+ML+%7C+ROS2+Developer;🚗+Swarm+Intelligence+%2B+Autonomous+Driving;🤖+Building+Intelligent+Full-Stack+Apps;🚀+Open+for+Internships!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF4444&center=true&vCenter=true&width=750&height=50&lines=AI+%26+Data+Science+Student+%40+KGISL;Python+%7C+Flask+%7C+ML+%7C+ROS2+Developer;Swarm+Intelligence+%2B+Autonomous+Driving;Building+Intelligent+Full-Stack+Apps;Open+for+Internships!" />
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## 🧠 Developer Blueprint
 
-<img align="right" width="340" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449420000" />
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ```python
 class Ragavarshini:
