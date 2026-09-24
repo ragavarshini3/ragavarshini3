@@ -1,29 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=200&section=header&text=Ragavarshini%20Alagarsamy&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0000,50:8b0000,100:cc0000&height=220&section=header&text=Ragavarshini%20Alagarsamy&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=scaleIn&stroke=ff4444&strokeWidth=2&desc=AI%20%26%20Python%20Developer%20%7C%20ROS2%20%7C%20Data%20Analyst&descSize=16&descAlignY=62&descColor=ffaaaa" width="100%" />
 
 </div>
 
 <div align="center">
 
-### 🚀 AI & Python Developer · Data Analyst · Autonomous Tech Builder · ROS2 Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF4444&center=true&vCenter=true&multiline=false&width=750&height=50&lines=🔥+AI+%26+Data+Science+Student+%40+KGISL;⚡+Python+%7C+Flask+%7C+ML+%7C+ROS2+Developer;🚗+Swarm+Intelligence+%2B+Autonomous+Driving;🤖+Building+Intelligent+Full-Stack+Apps;🚀+Open+for+Internships!" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF4444&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student+%40+KGISL;Python+%7C+Flask+%7C+ML+%7C+ROS2+Developer;Swarm+Intelligence+%2B+Autonomous+Driving;Building+Intelligent+Full-Stack+Apps+%F0%9F%A4%96;Open+for+Internships+%F0%9F%9A%80" />
-</p>
+</div>
 
+<div align="center">
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ragavarshini3&style=flat-square&color=cc0000&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/ragavarshini3?style=flat-square&color=ff4444&label=Followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships-cc0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%20🇮🇳-8b0000?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ragavarshini3&style=for-the-badge&color=cc0000&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/ragavarshini3?style=for-the-badge&color=ff4444&label=FOLLOWERS" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-8b0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍-TAMIL%20NADU%20🇮🇳-1a0000?style=for-the-badge" />
 </p>
-
 </div>
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🧠 Developer Blueprint
+
+<img align="right" width="340" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449420000" />
 
 ```python
 class Ragavarshini:
@@ -53,9 +55,13 @@ class Ragavarshini:
         return "Build. Break. Learn. Repeat. 🚀"
 ```
 
----
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠 Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -90,7 +96,9 @@ class Ragavarshini:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-cc0000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8b0000?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
 
@@ -120,7 +128,6 @@ Full-stack math solver using Python, Flask, SymPy, and OCR to generate step-by-s
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top" style="padding:18px; border:1px solid #8b0000; border-top: 3px solid #b22222;">
 
@@ -146,7 +153,19 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 </table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ragavarshini3/ragavarshini3/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ragavarshini3/ragavarshini3/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ragavarshini3/ragavarshini3/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ⚔️ Coding Profiles
 
@@ -178,7 +197,7 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 </table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 Work Experience
 
@@ -210,7 +229,7 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics
 
@@ -224,7 +243,7 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Contribution Activity
 
@@ -232,7 +251,7 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragavarshini3&theme=redmoon&bg_color=0d0000&color=ff4444&line=cc0000&point=ff6666&area=true&hide_border=true" width="95%"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎓 Education
 
@@ -257,7 +276,7 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 📦 MLOps        → Model Versioning, CI/CD for ML, Experiment Tracking
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📬 Connect With Me
 
@@ -285,11 +304,9 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 
 <div align="center">
 
-### 💼 Open for Internships · 🤝 Hackathon Collaborations · 🤖 AI + ROS2 Projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=FF4444&center=true&vCenter=true&width=600&lines=💼+Open+for+Internships;🤝+Hackathon+Collaborations+Welcome;🤖+AI+%2B+ROS2+Projects;🔥+Build.+Break.+Learn.+Repeat." />
 
-> *"Build. Break. Learn. Repeat. 🚀"*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:cc0000&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=130&section=footer&animation=twinkling&fontColor=ffffff"/>
 
 **Built with ❤️ and lots of ☕ — from Tamil Nadu, India**
 
