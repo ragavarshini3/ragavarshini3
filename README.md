@@ -304,7 +304,7 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=FF4444&center=true&vCenter=true&width=600&lines=💼+Open+for+Internships;🤝+Hackathon+Collaborations+Welcome;🤖+AI+%2B+ROS2+Projects;🔥+Build.+Break.+Learn.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=FF4444&center=true&vCenter=true&width=600&lines=Open+for+Internships;Hackathon+Collaborations+Welcome;AI+%2B+ROS2+Projects;Build.+Break.+Learn.+Repeat." />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=130&section=footer&animation=twinkling&fontColor=ffffff"/>
 
