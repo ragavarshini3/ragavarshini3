@@ -248,7 +248,7 @@ Comprehensive data cleaning, transformation, and Power BI dashboards — automat
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragavarshini3&theme=tokyo-night&bg_color=0d0000&color=ff4444&line=cc0000&point=ff6666&area=true&hide_border=true" width="95%"/>
+  <img src="https://ghchart.rshah.org/cc0000/ragavarshini3" width="95%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
