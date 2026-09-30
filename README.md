@@ -29,7 +29,7 @@
 
 ```python
 class Ragavarshini:
-    name        = "Ragavarshini A"
+    name        = "Ragavarshini A" 
     location    = "Sattur, Tamil Nadu, India 🇮🇳"
     degree      = "B.Tech AI & Data Science @ KGISL, Coimbatore"
     cgpa        = 8.38 
