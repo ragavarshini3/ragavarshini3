@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=200&section=header&text=Ragavarshini+Alagarsamy&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=200&section=header&text=Ragavarshini+Alagarsamy&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" /> 
 
 </div>
 
