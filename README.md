@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF4444&center=true&vCenter=true&width=900&height=50&lines=AI+%26+Data+Science+Student+%40+KGISL;Python+%7C+Flask+%7C+ML+%7C+ROS2+Developer;Swarm+Intelligence+%2B+Autonomous+Driving;Building+Intelligent+Full-Stack+Apps;Open+for+Internships!" />
 
 </div>
