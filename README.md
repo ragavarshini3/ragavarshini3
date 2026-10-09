@@ -1,18 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=200&section=header&text=Ragavarshini+Alagarsamy&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=200&section=header&text=Ragavarshini+Alagarsamy&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF4444&center=true&vCenter=true&width=750&height=50&lines=AI+%26+Data+Science+Student+%40+KGISL;Python+%7C+Flask+%7C+ML+%7C+ROS2+Developer;Swarm+Intelligence+%2B+Autonomous+Driving;Building+Intelligent+Full-Stack+Apps;Open+for+Internships!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF4444&center=true&vCenter=true&width=900&height=50&lines=AI+%26+Data+Science+Student+%40+KGISL;Python+%7C+Flask+%7C+ML+%7C+ROS2+Developer;Swarm+Intelligence+%2B+Autonomous+Driving;Building+Intelligent+Full-Stack+Apps;Open+for+Internships!" />
 
 </div>
 
 <div align="center">
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ragavarshini3&style=for-the-badge&color=cc0000&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/ragavarshini3?style=for-the-badge&color=ff4444&label=FOLLOWERS" />
   <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-8b0000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📍-TAMIL%20NADU%20🇮🇳-1a0000?style=for-the-badge" />
@@ -29,10 +28,10 @@
 
 ```python
 class Ragavarshini:
-    name        = "Ragavarshini A" 
+    name        = "Ragavarshini A"
     location    = "Sattur, Tamil Nadu, India 🇮🇳"
     degree      = "B.Tech AI & Data Science @ KGISL, Coimbatore"
-    cgpa        = 8.38 
+    cgpa        = 8.38
     roles       = ["AI Developer", "Python Dev", "Data Analyst", "ROS2 Builder"]
     currentProject = "Swarm Intelligence Autonomous Driving (V2V/V2I)"
     open_source    = True
