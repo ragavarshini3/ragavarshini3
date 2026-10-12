@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:8b0000,100:cc0000&height=200&section=header&text=Ragavarshini+Alagarsamy&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%" />
 
 </div>
-
+ 
 <div align="center">
  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF4444&center=true&vCenter=true&width=900&height=50&lines=AI+%26+Data+Science+Student+%40+KGISL;Python+%7C+Flask+%7C+ML+%7C+ROS2+Developer;Swarm+Intelligence+%2B+Autonomous+Driving;Building+Intelligent+Full-Stack+Apps;Open+for+Internships!" />
